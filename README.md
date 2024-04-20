@@ -2,8 +2,6 @@
 
 **I'm Nil Distefano** - While working as data analyst and persuing a masters in artificial intelligence, I am eager to enhance my skills in the field and engage with individuals for learning opportunities along the way. Additionally, I'm a self-taught drummer and basketball player for the local club.
 
-Find me on:
-
 <a href="https://www.linkedin.com/in/nil-distefano-040a8b255/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nil Distefano | LinkedIn" width="21px"/></a>
 
 
