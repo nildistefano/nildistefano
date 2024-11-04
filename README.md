@@ -1,6 +1,10 @@
-### Hi there 👋
 
-**I'm Nil Distefano** - While working as data analyst and persuing a masters in artificial intelligence, I am eager to enhance my skills in the field and engage with individuals for learning opportunities along the way. Additionally, I'm a self-taught drummer and basketball player for the local club.
+Hi there 👋
+I'm Nil Distefano, a Data Engineer specializing in Artificial Intelligence. I'm passionate about introducing AI into real-world solutions and use cases.
+
+Outside of work, I enjoy playing the drums and staying active with my local basketball club.
+
+I'm always eager to learn and collaborate with others in the field. Let's connect!
 
 <a href="https://www.linkedin.com/in/nildistefano"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nil Distefano | LinkedIn" width="21px"/></a>
 
