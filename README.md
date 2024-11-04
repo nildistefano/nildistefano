@@ -1,5 +1,6 @@
 
 Hi there 👋
+
 I'm Nil Distefano, a Data Engineer specializing in Artificial Intelligence. I'm passionate about introducing AI into real-world solutions and use cases.
 
 Outside of work, I enjoy playing the drums and staying active with my local basketball club.
@@ -8,18 +9,5 @@ I'm always eager to learn and collaborate with others in the field. Let's connec
 
 <a href="https://www.linkedin.com/in/nildistefano"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nil Distefano | LinkedIn" width="21px"/></a>
 
+<a href="mailto:disnil7@gmail.com"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/mail.svg" alt="Nil Distefano | Mail" width="21px"/></a>
 
-<!--
-**nildistefano/nildistefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
